@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>net.weg</groupId>
-	<artifactId>gestaoprodutos</artifactId>
+	<artifactId>servico-gerenciamento</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>servico-gerenciamento</name>
 	<description>API para o gerenciamento de Médicos e Pacientes</description>

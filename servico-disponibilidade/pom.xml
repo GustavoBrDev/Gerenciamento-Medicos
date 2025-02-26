@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>net.weg</groupId>
-	<artifactId>gestaoprodutos</artifactId>
+	<artifactId>servico-disponibilidade</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>servico-disponibilidade</name>
 	<description>API para a validação de disponibilidade dos médicos</description>

@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>net.weg</groupId>
-	<artifactId>servico-email</artifactId>
+	<artifactId>gestaoprodutos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>servico-email</name>
 	<description>API para o envio de emails</description>

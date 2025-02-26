@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>net.weg</groupId>
-	<artifactId>gestaoprodutos</artifactId>
+	<artifactId>servico-consultas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>servico-consultas</name>
 	<description>API para o agendamento de consultas</description>
